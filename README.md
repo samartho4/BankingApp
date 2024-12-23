@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a secure banking web application powered by Plaid's financial services API. It helps for better and seecured finances.
+This project is a secure banking web application powered by Plaid's financial services API. It helps for better and secured finances.
 
 ## Tech Stack
 
